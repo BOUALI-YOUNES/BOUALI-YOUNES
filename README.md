@@ -2,7 +2,7 @@
 
 ### Software Engineering Student | Backend Developer
 
-I'm a Computer Engineering student at ENSA Kénitra, passionate about
+I'm a Computer Science student at ENSA Kénitra, passionate about
 backend development, system design, DevOps, and software architecture.
 
 I enjoy building scalable web applications and exploring modern
