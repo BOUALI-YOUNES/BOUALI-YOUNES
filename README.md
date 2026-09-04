@@ -1,6 +1,6 @@
 # Hi, I'm Younes Bouali 👋
 
-### Software Engineering Student | Backend Developer
+### Software Science Student | Backend Developer
 
 I'm a Computer Science student at ENSA Kénitra, passionate about
 backend development, system design, DevOps, and software architecture.
