@@ -3,7 +3,7 @@
 ### Computer Science Student | Backend Developer
 
 I'm a Computer Science student at ENSA Kénitra, passionate about
-backend development, system design, DevOps, and software architecture.
+backend development, system design, DevOps, and Agentic AI.
 
 I enjoy building scalable web applications and exploring modern
 backend technologies.
@@ -13,10 +13,10 @@ backend technologies.
 ## 🚀 About Me
 
 - 🎓 Computer Engineering Student at ENSA Kénitra
-- 💻 Interested in Backend & Software Engineering
+- 💻 Interested in AI & Software Engineering
 - ☕ Java / Spring Boot enthusiast
 - 🌐 Building applications with Spring Boot, Laravel & React
-- 🐳 Learning Microservices, Docker & Cloud technologies
+- 🐳 Learning Microservices, Docker & AI technologies
 - 📚 Interested in System Design and Software Architecture
 
 ---
@@ -61,7 +61,7 @@ A distributed e-commerce application built with Spring Boot and
 microservices architecture.
 
 **Technologies:**
-Spring Boot · PostgreSQL · Docker · Maven · REST APIs
+Spring Boot · PostgreSQL · Docker · Maven · Kafka · Zipkin · REST APIs
 
 ---
 
