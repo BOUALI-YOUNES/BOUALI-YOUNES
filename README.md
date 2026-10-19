@@ -12,7 +12,7 @@ backend technologies.
 
 ## 🚀 About Me
 
-- 🎓 Computer Engineering Student at ENSA Kénitra
+- 🎓 Computer Science Student at ENSA Kénitra
 - 💻 Interested in AI & Software Engineering
 - ☕ Java / Spring Boot enthusiast
 - 🌐 Building applications with Spring Boot, Laravel & React
